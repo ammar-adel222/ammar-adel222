@@ -1,184 +1,129 @@
-# 👋 Welcome to My GitHub Profile
+<div align="center">
 
-**AI Engineer | LLM Specialist | Computer Science Student**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=header&text=Ammar%20Adel&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20LLM%20Specialist%20%C2%B7%20CS%20Student&descAlignY=62&descSize=16" width="100%"/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-adel-03b681329)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ammar-adel222)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammaradel1111178@gmail.com)
+[![Location](https://img.shields.io/badge/Cairo%2C%20Egypt-🇪🇬-2563EB?style=for-the-badge)](https://github.com/ammar-adel222)
 
-## 🚀 About Me
-
-I'm an AI Engineer at **Energetic** startup and Head of AI Team at **ConnectX Club** (Ain Shams University), passionate about building intelligent systems using Large Language Models, AI agents, and advanced machine learning techniques. Currently pursuing a Bachelor of Computer Science at Ain Shams University (Sep 2023 - Jul 2027).
-
-With hands-on experience in:
-- 🤖 **AI Agents & LLMs**: LangChain, LangGraph, LLaMA, Groq
-- 🔍 **RAG Systems**: Retrieval-Augmented Generation pipelines with FAISS
-- 🧠 **NLP**: Fine-tuning, Sentiment Analysis, Prompt Engineering
-- 📊 **ML/Data Science**: PyTorch, TensorFlow, Scikit-Learn, Advanced Analytics
-- ⚙️ **Backend Development**: REST APIs, Flask, Software Design
-- 🐳 **DevOps**: Docker, AWS, Git, Linux
+</div>
 
 ---
 
-## 💼 Professional Experience
+## About Me
 
-### AI Engineer
-**Energetic (Startup)** | Feb 2026 - Present | Cairo, Egypt
+I'm an **AI Engineer at [Energetic](https://github.com/ammar-adel222)** and **Head of AI Team at ConnectX Club** (Ain Shams University), building production-grade LLM systems and multi-agent pipelines. Currently in my second year of a CS degree, set to graduate in 2027.
 
-- Build and deploy AI agents using LLMs, LangChain, and LangGraph
-- Design custom agent workflows, tool integrations, and orchestration logic
-- Architect RAG pipelines with embedding-based retrieval and contextual response generation
-- Integrate AI agents with REST APIs and external services for multi-step task orchestration
+I focus on the hard parts of LLM engineering — agent orchestration, self-healing pipelines, RAG at scale, and Arabic NLP. Outside of that, I mentor 50+ students through ConnectX Club's AI track.
 
-### Head of AI Team
-**ConnectX Club** | Aug 2025 - Present | Ain Shams University
-
-- Lead AI track for 50+ students
-- Deliver 8+ sessions on ML, Deep Learning, and NLP
-- Mentor 20+ students through hands-on projects
-- Coordinate 3+ end-to-end AI/ML projects from problem definition to deployment
+```python
+ammar = {
+    "role":       "AI Engineer @ Energetic  |  Head of AI @ ConnectX Club",
+    "education":  "BSc Computer Science — Ain Shams University (2023–2027)",
+    "focus":      ["Multi-Agent Systems", "RAG Pipelines", "LLM Fine-tuning"],
+    "location":   "Cairo, Egypt 🇪🇬",
+}
+```
 
 ---
 
-## 🛠️ Skills
+## Tech Stack
 
-### AI & Agents
-NLP, LangChain, LangGraph, MCP, LLMs, RAG, Prompt Engineering, Fine-tuning, LoRA/QLoRA
+**AI & Agents**
 
-### Programming Languages
-Python, Java, C/C++, SQL
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LLMs-2563EB?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-334155?style=flat-square)
+![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA-6366F1?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-0F172A?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-475569?style=flat-square)
 
-### AI/ML Frameworks
-PyTorch, TensorFlow, Scikit-Learn, HuggingFace Transformers, Keras
+**ML Frameworks**
 
-### Data & Analysis
-Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-### Backend & APIs
-REST APIs, Flask, OOP, Software Design Principles
+**Languages & Tools**
 
-### Databases & Storage
-SQL, SQLite, FAISS (Vector Database)
-
-### DevOps & Tools
-Git/GitHub, Docker, AWS, Linux, Streamlit
-
-### CS Fundamentals
-Data Structures, Algorithms, System Design, Probability & Statistics
-
----
-
-## 📋 Featured Projects
-
-### 🤖 CodeBridge.AI - Multi-Agent AI System
-**Repository**: [CodeBridge.AI](https://github.com/ammar-adel222/CodeBridge.AI)
-
-A 9-node AI agent system using LangGraph and Groq (LLaMA 70B, Oss 120b) that writes, translates, and tests code in Python, C++, and Java. Features dynamic tool wiring, self-healing pipelines with failure memory, and escalating retry strategies. Deployed with Streamlit.
-
-**Stack**: LangGraph, Groq, Streamlit, Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0F172A?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
-### 🎬 Movie & Series Recommender - ML at Scale
-**Repository**: [the_recommender](https://github.com/ammar-adel222/the_recommender)
+## Featured Projects
 
-Content-based recommendation engine processing 1M+ rows using TF-IDF, Sentence-BERT embeddings, and FAISS similarity search. Achieves sub-second inference latency at scale.
+### 🤖 [CodeBridge.AI](https://github.com/ammar-adel222/CodeBridge.AI) — Multi-Agent Code System
+> 9-node LangGraph agent system powered by Groq (LLaMA 70B + Oss 120B) that writes, translates, and tests code across Python, C++, and Java. Features a self-healing pipeline with failure memory and escalating retry strategies, plus Docker-based execution sandboxing.
 
-**Stack**: TensorFlow, FAISS, Sentence-BERT, Scikit-Learn
-
----
-
-### 🗣️ Smart Virtual Assistant - RAG-based AI Application
-**Repository**: [AI_Knowledge_Assistant](https://github.com/ammar-adel222/AI_Knowledge_Assistant)
-
-Complete RAG pipeline with embedding generation, FAISS vector indexing, semantic retrieval, and contextual response generation. Processes 5+ document types (PDFs, spreadsheets, YouTube transcripts) for grounded question answering.
-
-**Stack**: LLaMA, LangChain, HuggingFace, FAISS, LLMs
+`LangGraph` `Groq` `LLaMA` `Streamlit` `Docker`
 
 ---
 
-### 🎯 Arabic Aspect-Based Sentiment Analysis (ABSA)
-Fine-tuned MarBERT and Qwen 2.5 3B to detect aspect categories (food, service, ambiance, price, etc.) and classify sentiment per aspect on real-world Egyptian Arabic Google Maps reviews. Achieved **91% F1 score**.
+### 🌍 Arabic ABSA — NLP Fine-Tuning on Egyptian Arabic
+> Fine-tuned **MarBERT** and **Qwen 2.5 3B** on real-world Egyptian Arabic Google Maps reviews to detect aspect categories (food, service, ambiance, price) and classify sentiment per aspect. Achieved **91% F1 score** despite heavy dialect variation and class imbalance.
 
-**Stack**: MarBERT, Qwen, HuggingFace, PyTorch
-
----
-
-### 📱 Chatshot - Desktop Chatting Application
-**Repository**: [Chatshot-desktop-chatting-app](https://github.com/ammar-adel222/Chatshot-desktop-chatting-app-)
-
-Desktop messaging application with socket programming and user-friendly GUI.
-
-**Stack**: C++
+`MarBERT` `Qwen 2.5` `HuggingFace` `PyTorch` `NLP`
 
 ---
 
-### 🫀 ECG-based Biometrics
-**Repository**: [ECG-based-biometrics](https://github.com/ammar-adel222/ECG-based-biometrics)
+### 🗣️ [AI Knowledge Assistant](https://github.com/ammar-adel222/AI_Knowledge_Assistant) — RAG Pipeline
+> Complete RAG system with FAISS vector indexing and semantic retrieval over 5+ document types (PDFs, spreadsheets, YouTube transcripts). Built for grounded question answering using LLaMA and LangChain.
 
-Machine learning system to distinguish between individuals using ECG recordings. Leverages the unique P, QRS, and T waves patterns for biometric authentication and aliveness detection.
-
-**Stack**: Python, Signal Processing, ML
+`LLaMA` `LangChain` `FAISS` `HuggingFace` `RAG`
 
 ---
 
-### 🎮 Game Popularity Prediction
-**Repository**: [Game_Popularity_Prediction](https://github.com/ammar-adel222/Game_Popularity_Prediction)
+### 🎬 [The Recommender](https://github.com/ammar-adel222/the_recommender) — ML at Scale
+> Content-based recommendation engine processing **1M+ rows** using TF-IDF, Sentence-BERT embeddings, and FAISS similarity search with sub-second inference latency.
 
-ML model predicting video game popularity using regression and classification techniques.
-
-**Stack**: Scikit-Learn, Pandas, Jupyter
+`Sentence-BERT` `FAISS` `TF-IDF` `Scikit-Learn`
 
 ---
 
-### 🖥️ OS Project 2025 - Educational Kernel
-**Repository**: [OS_Project_2025](https://github.com/ammar-adel222/OS_Project_2025)
+### 🫀 [ECG Biometrics](https://github.com/ammar-adel222/ECG-based-biometrics) — Signal Processing + ML
+> ML system for biometric identification using the unique P, QRS, and T-wave patterns in ECG recordings. Doubles as an aliveness detection mechanism.
 
-Comprehensive educational operating system kernel developed for teaching OS concepts at FCIS - Ain Shams University.
-
-**Stack**: C
+`Python` `Signal Processing` `Scikit-Learn`
 
 ---
 
-## 🏆 Certifications & Achievements
+## GitHub Stats
 
-- **AI Agents & LLMs** – Hands-On Training Program (Digital Hub & Orange Digital Center)
-- **Machine Learning Specialization** – DeepLearning.AI (Coursera)
-- **Deep Learning Specialization** – DeepLearning.AI (Coursera)
-- **Building LLM Applications With Prompt Engineering** – NVIDIA
-- **ECPC 2025** – Egyptian Collegiate Programming Contest: Ranked top 30% among 210+ teams
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ammar-adel222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-adel222&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 📚 Education
-
-**Bachelor of Computer Science**  
-Ain Shams University | Sep 2023 - Jul 2027
-
-**Relevant Coursework**: Data Structures, Algorithms, OOP, Software Engineering, Machine Learning, Databases, Probability and Statistics
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## Certifications
 
-- **Total Repositories**: 13+ active projects
-- **Languages**: Python, C++, C, Java, SQL, TypeScript
-- **Focus Areas**: AI/ML, LLMs, Backend Development, System Design
-
----
-
-## 🔗 Connect With Me
-
-- **GitHub**: [@ammar-adel222](https://github.com/ammar-adel222)
-- **Location**: Cairo, Egypt 🇪🇬
-- **Current Role**: AI Engineer at Energetic | Student at Ain Shams University
+| Certificate | Issuer |
+|---|---|
+| AI Agents & LLMs — Hands-On Training Program | Digital Hub & Orange Digital Center |
+| Machine Learning Specialization | DeepLearning.AI (Coursera) |
+| Deep Learning Specialization | DeepLearning.AI (Coursera) |
+| Building LLM Applications with Prompt Engineering | NVIDIA |
+| ECPC 2025 — Top 30% among 210+ teams | Egyptian Collegiate Programming Contest |
 
 ---
 
-## 📝 Latest Focus
+<div align="center">
 
-Currently exploring advanced AI agent architectures, multi-agent orchestration, and production-grade RAG systems. Passionate about mentoring the next generation of AI engineers through ConnectX Club.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=80&section=footer" width="100%"/>
 
----
-
-> *"Building intelligent systems that solve real-world problems through AI and machine learning."*
-
-**Last Updated**: May 2026
+</div>
