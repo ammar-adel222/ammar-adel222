@@ -71,7 +71,7 @@ ammar = {
 
 ---
 
-### 🌍 [MR-sentiment](https://github.com/ammar-adel222/MR-sentiment/tree/main) — Arabic ABSA — NLP Fine-Tuning on Egyptian Arabic
+### 🌍 [MR-sentiment](https://github.com/ammar-adel222/MR-sentiment) — Arabic ABSA — NLP Fine-Tuning on Egyptian Arabic
 > Fine-tuned **MarBERT** and **Qwen2.5-1.5B** on real-world Egyptian Arabic Google Maps reviews to detect aspect categories (food, service, ambiance, price) and classify sentiment per aspect. Achieved **91% F1 score** despite heavy dialect variation and class imbalance.
 
 `MarBERT` `Qwen 2.5` `HuggingFace` `PyTorch` `NLP`
